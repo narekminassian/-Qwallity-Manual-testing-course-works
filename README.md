@@ -1,2 +1,2 @@
 # -Qwallity-Manual-testing-course-works
-Here you can find my works I did during QA manual testing course.
+Here you can find out works I done during QA manual testing course.
